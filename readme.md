@@ -12,7 +12,7 @@ openCV tracker 自動比對並修復ID程式之特徵比對
 
 
 ## 版本資訊
-文件版本：v0.0.1
+文件版本：v0.0.2
 執行環境：ubuntu 20.04
 ORB SIFT HOG 各項soure code 與執行方式請參考 四 五 六 七項
 
@@ -148,16 +148,16 @@ jupyter-lab
 ## 四、 source code 下載 
 關於 ORB 特徵擷取ID 比對 
 ```gherkin=
-git clone 
+git clone https://github.com/masteree108/ORB_personID_UBU18.git
 ```
 
 關於 SIFT 特徵擷取ID 比對 
 ```gherkin=
-git clone 
+git clone https://github.com/masteree108/SIFT_personID_UBU18.git
 ```
 關於 HOG 特徵擷取ID 比對 
 ```gherkin=
-git clone 
+git clone https://github.com/masteree108/HOG_personID_UBU18.git
 ```
 
 ## 五、 ORB 測試步驟與結果驗證
